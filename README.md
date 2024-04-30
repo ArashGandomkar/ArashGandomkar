@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C/C++|PYTHON Language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lArashGkl](https://github.com/ArashGandomkar)
+- 👨‍💻 All of my projects are available at [https://github.com/ArashGandomkar](https://github.com/ArashGandomkar)
 
 - 💬 Ask me about **C/C++**
 
