@@ -26,9 +26,9 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashgandomkar&show_icons=true&locale=en&layout=compact" alt="arashgandomkar" /></p>-->
 
-<p align = "right"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArashGandomkar" alt="ArashGandomkar"  height="200" width="300" />&nbsp;
-  <img align="center" src="https://images.squarespace-cdn.com/content/v1/53fb0761e4b0d182e1ba1377/1552380296531-MHY5780Y70V1IRKG9V3V/B%26W_Ampersand_Animation-3.gif" alt="     " height="90" width="73" />&nbsp; 
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArashGandomkar" alt="ArashGandomkar" height="200" width="300" /></p>
+<p align = "right"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArashGandomkar" alt="ArashGandomkar"  height="150" width="250" />&nbsp;
+  <img align="center" src="https://images.squarespace-cdn.com/content/v1/53fb0761e4b0d182e1ba1377/1552380296531-MHY5780Y70V1IRKG9V3V/B%26W_Ampersand_Animation-3.gif" alt="     " height="76" width="58" />&nbsp; 
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArashGandomkar" alt="ArashGandomkar" height="150" width="250" /></p>
 
 
 
