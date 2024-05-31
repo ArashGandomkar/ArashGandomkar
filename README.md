@@ -24,4 +24,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashgandomkar&show_icons=true&locale=en&layout=compact" alt="arashgandomkar" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashgandomkar&show_icons=true&locale=en&layout=compact" alt="arashgandomkar" /></p>-->
+
+<p align = "right"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArashGandomkar" alt="ArashGandomkar"  height="200" width="300" />  
+  <img align="center" src="https://images.squarespace-cdn.com/content/v1/53fb0761e4b0d182e1ba1377/1552380296531-MHY5780Y70V1IRKG9V3V/B%26W_Ampersand_Animation-3.gif" alt="     " height="90" width="73" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArashGandomkar" alt="ArashGandomkar" height="200" width="300" /></p>
+
+
+
