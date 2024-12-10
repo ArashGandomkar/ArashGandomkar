@@ -27,9 +27,8 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashgandomkar&show_icons=true&locale=en&layout=compact" alt="arashgandomkar" /></p>-->
 
-<p align = "right"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArashGandomkar" alt="ArashGandomkar"  height="160" width="260" />&nbsp;
-  <img align="center" src="https://images.squarespace-cdn.com/content/v1/53fb0761e4b0d182e1ba1377/1552380296531-MHY5780Y70V1IRKG9V3V/B%26W_Ampersand_Animation-3.gif" alt="     " height="77" width="58" />&nbsp; 
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArashGandomkar" alt="ArashGandomkar" height="160" width="260" /></p>
+<p align = "right"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arashgandomkar&theme=monokai" alt="ArashGandomkar"  height="160" width="260" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arashgandomkar&theme=monokai" alt="ArashGandomkar" height="280" width="460" /></p>
 
 
 
