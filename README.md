@@ -27,8 +27,4 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashgandomkar&show_icons=true&locale=en&layout=compact" alt="arashgandomkar" /></p>-->
 
-<p align = "right"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arashgandomkar&theme=monokai" alt="ArashGandomkar"  height="160" width="260" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arashgandomkar&theme=monokai" alt="ArashGandomkar" height="280" width="460" /></p>
-
-
-
+<p align = "right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashgandomkar&layout=compact&theme=monokai" alt="Repos per Language"  height="200" width="320" /></p>
