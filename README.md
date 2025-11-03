@@ -5,9 +5,7 @@
 
 <img align="right" alt="ArashGk" width = "320" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🌱 I’m currently learning **C/C++| SOLIDITY Language**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ArashGandomkar](https://github.com/ArashGandomkar)
+- 🌱 I’m currently learning **SOLIDITY Language**
 
 - 💬 Ask me about **C/C++| SOLIDITY**
 
@@ -28,4 +26,4 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashgandomkar&show_icons=true&locale=en&layout=compact" alt="arashgandomkar" /></p>-->
 <!--<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>-->
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=arashgandomkar&layout=compact&theme=monokai-->
-<p align = "right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashgandomkar&layout=compact&theme=monokai&cache_seconds=1800" alt="Repos per Language"  height="200" width="320" /></p>
+<p align = "right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashgandomkar&layout=compact&theme=monokai&cache_seconds=1800&v=1" alt="Repos per Language"  height="200" width="320" /></p>
